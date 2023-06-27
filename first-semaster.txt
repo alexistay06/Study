@@ -1,0 +1,27 @@
+Monday:
+
+9:00 AM - 10:30 AM: Biology Lecture
+11:00 AM - 12:30 PM: English Literature Seminar
+2:00 PM - 4:00 PM: Chemistry Lab
+
+Tuesday:
+
+10:00 AM - 11:30 AM: Mathematics Lecture
+12:00 PM - 1:30 PM: Psychology Seminar
+
+Wednesday:
+
+9:00 AM - 10:30 AM: Physics Lecture
+11:00 AM - 12:30 PM: History Seminar
+2:00 PM - 4:00 PM: Computer Science Lab
+
+Thursday:
+
+10:00 AM - 11:30 AM: Economics Lecture
+12:00 PM - 1:30 PM: Sociology Seminar
+
+Friday:
+
+9:00 AM - 10:30 AM: Political Science Lecture
+11:00 AM - 12:30 PM: Philosophy Seminar
+2:00 PM - 4:00 PM: Art Studio
